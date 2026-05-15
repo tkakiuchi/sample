@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "postcode": "2000" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[151.19, -33.90], [151.22, -33.90], [151.22, -33.87], [151.19, -33.87], [151.19, -33.90]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "2010" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[151.21, -33.89], [151.24, -33.89], [151.24, -33.86], [151.21, -33.86], [151.21, -33.89]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "2020" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[151.17, -33.93], [151.20, -33.93], [151.20, -33.90], [151.17, -33.90], [151.17, -33.93]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "2030" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[151.25, -33.87], [151.28, -33.87], [151.28, -33.84], [151.25, -33.84], [151.25, -33.87]]]
+      }
+    }
+  ]
+}
